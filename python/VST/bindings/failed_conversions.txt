@@ -1,0 +1,11 @@
+.\include\gnuradio\VST\VSTSrc.hNo c++ parser found. Please install castxml.
+.\include\gnuradio\VST\VSTSrc.hNo c++ parser found. Please install castxml.
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hNo c++ parser found. Please install castxml.
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
+.\include\gnuradio\VST\VSTSrc.hError occurred while running CASTXML:  status:1
